@@ -33,7 +33,7 @@ The model performace increased greatly when nnew features are added as such, if 
 |--|--|--|--|--|
 |initial|default|default|default|1.39998|
 |add_features|default|Parsing of Dates and Feature Engineering|Parsing of Dates and Feature Engineeringt|0.45570|
-|hpo|default|default|GBM, NN|1.31044|
+|hpo|default|default|GBM, NN|1.29716|
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
